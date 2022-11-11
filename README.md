@@ -38,7 +38,7 @@ Published ROS topics
 
 Pure Pursuit Algorithm is used to implement the navigation by taking waypoints as reference. The vehicle is localized using the Inertial Navigation System (INS). It gives the present latitude and longitude values of the vehicle; thereby, the distance and heading to the predetermined waypoint is calculated. Steering and acceleration input are calculted which therby reduce the distance and heading errors. Required steering and acceleration are carried on to low level controller and thereby to ECU.
 
-<img src="https://user-images.githubusercontent.com/89637330/200308990-b52affc7-b362-46e2-83da-05e65053b7df.png" width="300" height="150" /> <img src="https://user-images.githubusercontent.com/89637330/200309010-417e7c30-0785-497c-a77f-ce20ea86c1bb.png" width="300" height="150" /> <img src="https://user-images.githubusercontent.com/89637330/200309027-cbf33aab-b467-4dc8-94b7-980180fdbbe9.png" width="300" height="150" />
+<img src="https://user-images.githubusercontent.com/89637330/200308990-b52affc7-b362-46e2-83da-05e65053b7df.png" width="200" height="100" /> <img src="https://user-images.githubusercontent.com/89637330/200309010-417e7c30-0785-497c-a77f-ce20ea86c1bb.png" width="200" height="100" /> <img src="https://user-images.githubusercontent.com/89637330/200309027-cbf33aab-b467-4dc8-94b7-980180fdbbe9.png" width="200" height="100" />
 
 Shuttle taking a Turn, moving faster on Straight Expressway, halted at a bus stop for Passenger alighting and boarding in Autonomous mode.
 
