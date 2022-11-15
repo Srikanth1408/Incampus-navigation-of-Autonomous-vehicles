@@ -46,3 +46,9 @@ Shuttle taking a Turn, moving faster on Straight Expressway, halted at a bus sto
 <img src="https://user-images.githubusercontent.com/89637330/200312122-1d71e769-31ea-43d4-9584-26b4516c162d.png" width="300" height="150" /> <img src="https://user-images.githubusercontent.com/89637330/200312144-4a93b7dc-d1cb-4f94-98d4-5af1a101d683.png" width="600" height="150" />
 
 Calculated Track error to validate how effective the ego vehicle is moving with respect to the given path.
+
+
+
+https://user-images.githubusercontent.com/89637330/201994262-2e89d788-d533-432d-8eac-4a29190beaf7.mp4
+
+
